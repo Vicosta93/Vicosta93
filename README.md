@@ -1,17 +1,18 @@
-# 💫 About Me:
-🔌 **Electrical Engineer | Power Electronics Researcher**  
 
-👨‍🎓 Graduado em Engenharia Elétrica com ênfase em Sistemas de Potência pela **Universidade do Estado do Rio de Janeiro (UERJ)**.  
-🎓 Atualmente cursando **Mestrado em Eletrônica de Potência**, com pesquisas focadas em:  
-- Conversores de potência  
-- Integração de energias renováveis  
-- Automação e controle de sistemas elétricos  
-- Análise de fluxo de potência  
+Hey There!
+---
+🔌 Electrical Engineer | Power Electronics
 
-💻 **Habilidades Técnicas:**  
-- Simulação em MATLAB/Simulink e PSIM  
-- Desenvolvimento em Python para análise de sistemas de potência  
+👨‍🎓 Graduated in Electrical Engineering with a focus on Power Systems from State University of Rio de Janeiro (UERJ).
+🎓 Currently pursuing a Master's Degree in Power Electronics, with research focused on:
 
+Power Electronics Modeling and Control, etc.
+
+💻 Technical Skills:
+
+Simulation in MATLAB/Simulink and PSIM
+
+Python development for power system analysis
 ---
 
 ## 🌐 Socials:
@@ -26,11 +27,8 @@
 ![Simulink](https://img.shields.io/badge/Simulink-01A6F0?style=for-the-badge&logo=mathworks&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### **Power Electronics & Simulation**  
 ![PSIM](https://img.shields.io/badge/PSIM-01A6F0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMDE4N0ZGIiBkPSJNMjU2IDhDMTE5IDggOCAxMTkgOCAyNTZzMTExIDI0OCAyNDggMjQ4IDI0OC0xMTEgMjQ4LTI0OFMzOTMgOCAyNTYgOHptMCA0NDhjLTExMC41IDAtMjAwLTg5LjUtMjAwLTIwMHM4OS41LTIwMCAyMDAtMjAwIDIwMCA4OS41IDIwMCAyMDAtODkuNSAyMDAtMjAwIDIwMHptMTAxLjgtMjYxLjdjLTUuMiAwLTguNy00LjMtOC43LTkuMiAwLTQuOSAzLjUtOS4yIDguNy05LjIgNS4yIDAgOC43IDQuMyA4LjcgOS4yIDAgNC45LTMuNSA5LjItOC43IDkuMnptLTYwLjctOS4yYzAgNC45LTMuNSA5LjItOC43IDkuMi01LjIgMC04LjctNC4zLTguNy05LjIgMC00LjkgMy41LTkuMiA4LjctOS4yIDUuMSAwIDguNyA0LjMgOC43IDkuMnptOTMuNC0xMS4zbC0xMC0xNi42Yy0zLjQtNS42LTEwLjItNy44LTE1LjgtNC40LTUuNiAzLjQtNy44IDEwLjItNC40IDE1LjhsMTAgMTYuNmMzLjQgNS42IDEwLjIgNy44IDE1LjggNC40IDUuNi0zLjQgNy44LTEwLjIgNC40LTE1Ljh6bS0xMjguOSAwbC0xMC0xNi42Yy0zLjQtNS42LTEwLjItNy44LTE1LjgtNC40LTUuNiAzLjQtNy44IDEwLjItNC40IDE1LjhsMTAgMTYuNmMzLjQgNS42IDEwLjIgNy44IDE1LjggNC40IDUuNi0zLjQgNy44LTEwLjIgNC40LTE1Ljh6TTI1NiAyNzJjLTYxLjkgMC0xMTItNTAuMS0xMTItMTEyUzE5NC4xIDQ4IDI1NiA0OHMxMTIgNTAuMSAxMTIgMTEyLTUwLjEgMTEyLTExMiAxMTJ6bTAtMTYwYy0yNi41IDAtNDggMjEuNS00OCA0OHMyMS41IDQ4IDQ4IDQ4IDQ4LTIxLjUgNDgtNDgtMjEuNS00OC00OC00OHoiLz48L3N2Zz4=)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![DSP](https://img.shields.io/badge/DSP-000000?style=for-the-badge&logo=digitalocean&logoColor=white)
+****
 
 # 📊 GitHub Stats:
 
